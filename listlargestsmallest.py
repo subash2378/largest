@@ -6,3 +6,5 @@ for i in range(5):
       if a[0]>a[i]:
           a[0]=a[i]
 print(f'{a[0]} is the smallest number')
+
+# rhis is comment
